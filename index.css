@@ -4,15 +4,7 @@
   box-sizing: border-box;
 
 }
-.background{
-  background: url("https://windy.app/storage/posts/January2020/qRYT7mzt6VpQACMzMUsl-tn.png");
-  width:100%;
-  height:100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: relative;
-  display: block;
-}
+
 
 nav{
 
